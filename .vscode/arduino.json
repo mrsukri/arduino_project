@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
     "port": "COM10",
-    "sketch": "arduino-vscode.ino"
+    "sketch": "arduino_blink_first\\arduino_blink_first.ino"
 }
